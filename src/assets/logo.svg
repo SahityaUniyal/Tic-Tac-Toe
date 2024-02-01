@@ -1,0 +1,65 @@
+<svg id='Tic_Tac_Toe_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.83 0 0 0.83 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 0 -7)" id="Vector" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -5)" d="M 15.5 1.5 L 8.5 1.5 L 8.5 8.5 L 15.5 8.5 L 15.5 1.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7 -7)" id="Vector_2" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-5, -5)" d="M 8.5 1.5 L 2 1.5 C 1.86739 1.5 1.74021 1.55268 1.64645 1.64645 C 1.55268 1.74021 1.5 1.86739 1.5 2 L 1.5 8.5 L 8.5 8.5 L 8.5 1.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 0)" id="Vector_3" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,227,227); fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -12)" d="M 15.5 8.5 L 8.5 8.5 L 8.5 15.5 L 15.5 15.5 L 15.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 7 -7)" id="Vector_4" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,227,227); fill-rule: nonzero; opacity: 1;" transform=" translate(-19, -5)" d="M 22.5 8.5 L 22.5 2 C 22.5 1.86739 22.4473 1.74021 22.3536 1.64645 C 22.2598 1.55268 22.1326 1.5 22 1.5 L 15.5 1.5 L 15.5 8.5 L 22.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 7)" id="Vector_5" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(128,128,128); fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -19)" d="M 15.5 15.5 L 8.5 15.5 L 8.5 22.5 L 15.5 22.5 L 15.5 15.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 7 7)" id="Vector_6" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(227,227,227); fill-rule: nonzero; opacity: 1;" transform=" translate(-19, -19)" d="M 15.5 22.5 L 22 22.5 C 22.1326 22.5 22.2598 22.4473 22.3536 22.3536 C 22.4473 22.2598 22.5 22.1326 22.5 22 L 22.5 15.5 L 15.5 15.5 L 15.5 22.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7 0)" id="Vector_7" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(178,178,178); fill-rule: nonzero; opacity: 1;" transform=" translate(-5, -12)" d="M 8.5 8.5 L 1.5 8.5 L 1.5 15.5 L 8.5 15.5 L 8.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 7 0)" id="Vector_8" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: rgb(128,128,128); fill-rule: nonzero; opacity: 1;" transform=" translate(-19, -12)" d="M 22.5 8.5 L 15.5 8.5 L 15.5 15.5 L 22.5 15.5 L 22.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7 7)" id="Vector_9" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,227,227); fill-rule: nonzero; opacity: 1;" transform=" translate(-5, -19)" d="M 1.5 15.5 L 1.5 22 C 1.5 22.1326 1.55268 22.2598 1.64645 22.3536 C 1.74021 22.4473 1.86739 22.5 2 22.5 L 8.5 22.5 L 8.5 15.5 L 1.5 15.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 0)" id="Vector_10" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -12)" d="M 8.5 8.5 L 8.5 15.5 L 15.5 8.5 L 8.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 6.93 -7)" id="Vector_11" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-18.93, -5)" d="M 22 1.5 L 15.5 1.5 L 15.5 8.5 L 22.354 1.646 C 22.3075 1.5996 22.2523 1.56282 22.1915 1.53777 C 22.1308 1.51272 22.0657 1.49988 22 1.5 L 22 1.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7 6.93)" id="Vector_12" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-5, -18.93)" d="M 1.5 15.5 L 1.5 22 C 1.49988 22.0657 1.51272 22.1308 1.53777 22.1915 C 1.56282 22.2523 1.5996 22.3075 1.646 22.354 L 8.5 15.5 L 1.5 15.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 7 7)" id="Vector_13" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-19, -19)" d="M 19 20.5 C 19.8284 20.5 20.5 19.8284 20.5 19 C 20.5 18.1716 19.8284 17.5 19 17.5 C 18.1716 17.5 17.5 18.1716 17.5 19 C 17.5 19.8284 18.1716 20.5 19 20.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7 -7)" id="Vector_14" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-5, -5)" d="M 5 6.5 C 5.82843 6.5 6.5 5.82843 6.5 5 C 6.5 4.17157 5.82843 3.5 5 3.5 C 4.17157 3.5 3.5 4.17157 3.5 5 C 3.5 5.82843 4.17157 6.5 5 6.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 0)" id="Vector_15" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -12)" d="M 10.531 10.531 L 13.469 13.469" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 0)" id="Vector_16" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -12)" d="M 13.469 10.531 L 10.531 13.469" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 0)" id="Vector_17" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -12)" d="M 15.5 8.5 L 8.5 8.5 L 8.5 15.5 L 15.5 15.5 L 15.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 7 -7)" id="Vector_18" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-19, -5)" d="M 22.5 8.5 L 22.5 2 C 22.5 1.86739 22.4473 1.74021 22.3536 1.64645 C 22.2598 1.55268 22.1326 1.5 22 1.5 L 15.5 1.5 L 15.5 8.5 L 22.5 8.5 Z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -7 7)" id="Vector_19" >
+<path style="stroke: rgb(25,25,25); stroke-width: 1; stroke-dasharray: none; stroke-linecap: round; stroke-dashoffset: 0; stroke-linejoin: round; stroke-miterlimit: 4; fill: none; fill-rule: nonzero; opacity: 1;" transform=" translate(-5, -19)" d="M 1.5 15.5 L 1.5 22 C 1.5 22.1326 1.55268 22.2598 1.64645 22.3536 C 1.74021 22.4473 1.86739 22.5 2 22.5 L 8.5 22.5 L 8.5 15.5 L 1.5 15.5 Z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
